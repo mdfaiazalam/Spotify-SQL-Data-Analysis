@@ -6,15 +6,15 @@ This project involves analyzing Spotify data using SQL queries to gain insights 
 * Table Used: spotify
 ## 📊 Key SQL Queries
 
-🔹### Basic Data Exploration
+### Basic Data Exploration
 
 * Count total records and unique albums.
 
 * Sum of total track duration in hours.
 
-Identify the longest and shortest tracks.
+* Identify the longest and shortest tracks.
 
-🔹 Advanced SQL Analysis
+### Advanced SQL Analysis
 
 Retrieve tracks with more than 1 billion streams.
 
