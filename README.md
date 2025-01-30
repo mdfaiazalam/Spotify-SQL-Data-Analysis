@@ -35,3 +35,15 @@ This project involves analyzing Spotify data using SQL queries to gain insights 
 * Calculate energy difference between max & min energy in each album.
 
 * Identify tracks with above-average liveness scores.
+
+🛠️ Technologies Used
+
+* SQL
+
+* MySQL
+
+* Window Functions
+
+* Aggregate Functions
+
+* Common Table Expressions (CTE)
