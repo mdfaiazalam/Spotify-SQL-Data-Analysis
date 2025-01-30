@@ -6,7 +6,7 @@ This project involves analyzing Spotify data using SQL queries to gain insights 
 * Table Used: spotify
 ## 📊 Key SQL Queries
 
-###🔹 Basic Data Exploration
+🔹### Basic Data Exploration
 
 * Count total records and unique albums.
 
